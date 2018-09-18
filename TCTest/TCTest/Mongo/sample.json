@@ -1,0 +1,41 @@
+﻿{
+  "_id": "1234",
+  "name": "Alex Ma",
+  "birthday": "1/1/1999",
+  "grad_year": "2029",
+  "gender": "male",
+  "usta_history_id": "1184186177184183177180177177179",
+  "crawl_date": "9/18/2019",
+  "utr_link": "https://www.myutr.com/players/319864",
+  "tr_link": ""
+}
+
+{
+  "_id": "111",
+  "date": "9/7/2018",
+  "type": "tournament",
+  "name": "Eastside TC August 1 Day Advanced & Intermediate Tournaments",
+  "start_date": "8/27/2018",
+  "end_date": "8/30/2018",
+  "division": "Girls' 14 Singles",
+  "type": "singles",
+  "round": "R1",
+  "win_id_1": "1234",
+  "win_id_2": "1234",
+  "loss_id_1": "1111",
+  "loss_id_2": "1111",
+  "set_1_win_score": "6",
+  "set_1_loss_score": "2",
+  "set_1_win_tb_point": "6",
+  "set_1_loss_tb_point": "2",
+  "set_2_win_score": "6",
+  "set_2_loss_score": "2",
+  "set_2_win_tb_point": "6",
+  "set_2_loss_tb_point": "2",
+  "set_3_win_score": "6",
+  "set_3_loss_score": "2",
+  "set_3_win_tb_point": "6",
+  "set_3_loss_tb_point": "2"
+}
+
+
