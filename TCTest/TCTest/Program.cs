@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
 using System.Net.Http;
+using TCTest.Mongo;
 
 namespace TCTest
 {
@@ -14,7 +15,10 @@ namespace TCTest
 
         static void Main(string[] args)
         {
-            StartCrawlerAsync();
+            //StartCrawlerAsync();
+
+            MongoTest.Run();
+
             Console.ReadLine();
         }
 
